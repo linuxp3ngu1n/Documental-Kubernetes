@@ -5,9 +5,9 @@ Canal HoneyPot
 
 *Kubernetes, K8s en adelante
 
-####RESUMEN
+#### RESUMEN
 
-###PARTE 1 
+### PARTE 1 
 21 enero 2022
 Fuente: https://www.youtube.com/watch?v=BE77h7dmoQU
 
@@ -22,7 +22,7 @@ K8s se desarrolló con el equipo de Borg y de infraestructura cloud de Google.
 Para lanzar el software de K8s crearon una capa declarativa sobre Docker.
 Para asignar un nombre se pensó algo como un volante o alguien que lleve el volante, así que salió el nombre de Kubernetes, que en la búsqueda de Google había pocos resultados.
 
-###PARTE 2
+### PARTE 2
 28 enero 2022
 
 https://www.youtube.com/watch?v=318elIq37PE
