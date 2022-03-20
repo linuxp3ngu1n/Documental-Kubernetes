@@ -9,6 +9,7 @@ Canal HoneyPot
 
 ### PARTE 1 
 21 enero 2022
+
 Fuente: https://www.youtube.com/watch?v=BE77h7dmoQU
 
 Chen Goldberg - VicePresident of Eng Google - hace 15 años usaban Borg, en lo que se ha inspirado K8s.
@@ -25,7 +26,7 @@ Para asignar un nombre se pensó algo como un volante o alguien que lleve el vol
 ### PARTE 2
 28 enero 2022
 
-https://www.youtube.com/watch?v=318elIq37PE
+Fuente: https://www.youtube.com/watch?v=318elIq37PE
 
 Sara Novotny - Open Source Wonk, Azure Pre @ Google - el código abierto se entiende mejor cuando se ve como un juego en positivo.
 En Google querían algo "emocionante pero incómodo"
